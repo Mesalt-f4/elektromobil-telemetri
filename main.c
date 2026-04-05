@@ -91,7 +91,7 @@ int main() {
 
     int secim;
     while (1) {
-        printf("\n--- ELEKTROMOBIL SURUS SIMULASYONU ---\n");
+        printf("\n--- TUFAN ELEKTROMOBIL SURUS SIMULASYONU ---\n");
         printf("1. Gaza Bas\n");
         printf("2. Frene Bas\n");
         printf("3. Rejeneratif Frenleme Yap\n");
