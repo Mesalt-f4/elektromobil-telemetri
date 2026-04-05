@@ -77,7 +77,7 @@ int main() {
 
     if (kapi_durumu == 'A') {
         printf("SONUC: HATA: Kapilar Acik! Lutfen Kapatiniz.\n");
-        return 1;
+        return 1 ;
     }
 
     if (fren_pedali == 0) {
